@@ -1,0 +1,47 @@
+{
+    "name": "SiriusXMChannelList",
+    "settings": {
+        "urlPrefix": "/Users/bbosh/Desktop/SiriusXMChannelList/",
+        "spacesToIndent": 4,
+        "exportPath": "",
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false
+    },
+    "xdsVersion": "2.1.0",
+    "xdsBuild": 676,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000498,
+    "framework": "touch21",
+    "topInstanceFileMap": {
+        "15d3bffe-714a-41f9-a025-9001bb9dd486": {
+            "paths": [
+                "metadata/view/Channels",
+                "app/view/override/Channels.js",
+                "app/view/Channels.js"
+            ],
+            "className": "Channels"
+        },
+        "fe4dcd7a-6809-478a-a072-bbb700c50a9b": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "15d3bffe-714a-41f9-a025-9001bb9dd486"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "fe4dcd7a-6809-478a-a072-bbb700c50a9b"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

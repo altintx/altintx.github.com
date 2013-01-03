@@ -1,0 +1,17 @@
+{
+    "type": "nestedlist",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "Channels",
+        "designer|initialView": true,
+        "data": [
+            "{    text: \"Sirius XM Channel List\",    items: [        {            text: \"Pop\",            items: [                {                    channel: 2,                    text: \"Top 40 Hits\"                },                {                    channel: 3,                    text: \"Pop Music Discovery\"                },                {                    channel: 4,                    text: \"’40s Pop Hits/Big Band\"                },                {                    channel: 5,                    text: \"’50s Pop Hits\"                },                {                    channel: 6,                    text: \"’60s Pop Hits                },                {                    channel: 7,                    text: \"70s Pop Hits\"                },                {                    channel: 8,                    text: \"’80s Pop Hits\"                },                {                    channel: 9,                    text: \"’90s Pop Hits\"                },                {                    channel: 10,                    text: \"2000s and Today\"                },                {                    channel: 14,                    text: \"2000s Pop Hits\"                },                {                    channel: 15,                    text: \"Studio 54 Radio\"                },                                {                    channel: 16,                    text: \"Lite Pop Hits\"                },                {                    channel: 17,                    text: \"Love Songs\"                },                                        },        {            text: \"Rock\"        },        {            text: \"Hip Hop/R&B\"        },        {            text: \"Dance/Electronic\"        },        {            text: \"Country\"        },        {            text: \"Christian\"        },        {            text: \"Jazz/Standards\"        },        {            text: \"Classical\"        },        {            text: \"Traffic & Weather\"        }    ]}"
+        ]
+    },
+    "id": "ExtBox1-ext-gen1918",
+    "designerId": "15d3bffe-714a-41f9-a025-9001bb9dd486"
+}
