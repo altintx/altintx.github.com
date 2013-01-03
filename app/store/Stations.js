@@ -375,127 +375,102 @@ Ext.define("MyApp.store.Stations", {
 					children: [
 						{
 							channel: 134,
-							name: "Washington DC Baltimore Atlanta",
 							text: "Atlanta"
 						},
 						{
 							channel: 134,
-							name: "Washington DC Baltimore Atlanta",
 							text: "Baltimore"
 						},
 						{
 							channel: 132,
-							name: "Boston Philadelphia Pittsburg",
 							text: "Boston"
 						},
 						{
 							channel: 135,
-							name: "Chicago Detroit",
 							text: "Chicago"
 						},
 						{
 							channel: 137,
-							name: "Texas/Arizona",
 							text: "Dallas"
 						},
 						{
 							channel: 135,
-							name: "Chicago Detroit",
 							text: "Detroit"
 						},
 						{
 							channel: 137,
-							name: "Texas/Arizona",
 							text: "Ft. Worth"
 						},
 						{
 							channel: 137,
-							name: "Texas/Arizona",
 							text: "Houston"
 						},
 						{
 							channel: 138,
-							name: "St. Louis Minneapolis St. Paul Las Vegas",
 							text: "Las Vegas"
 						},
 						{
 							channel: 140,
-							name: "Los Angeles",
 							text: "Los Angeles"
 						},
 						{
 							channel: 136,
-							name: "Florida",
 							text: "Miami"
 						},
 						{
 							channel: 138,
-							name: "St. Louis Minneapolis St. Paul Las Vegas",
 							text: "Minneapolis"
 						},
 						{
 							channel: 133,
-							name: "New York",
 							text: "New York"
 						},
 						{
 							channel: 136,
-							name: "Florida",
 							text: "Orlando"
 						},
 						{
 							channel: 132,
-							name: "Boston Philadelphia Pittsburg",
 							text: "Philadelphia"
 						},
 						{
 							channel: 137,
-							name: "Texas/Arizona",
 							text: "Phoenix"
 						},
 						{
 							channel: 132,
-							name: "Boston Philadelphia Pittsburg",
 							text: "Pittsburg"
 						},
 						{
 							channel: 139,
-							name: "San Francisco Seattle San Diego",
 							text: "San Francisco"
 						},
 						{
 							channel: 139,
-							name: "San Francisco Seattle San Diego",
 							text: "San Diego"
 						},
 						{
 							channel: 139,
-							name: "San Francisco Seattle San Diego",
 							text: "Seattle"
 						},
 						{
 							channel: 138,
-							name: "St. Louis Minneapolis St. Paul Las Vegas",
 							text: "St. Louis"
 						},
 						{
 							channel: 138,
-							name: "St. Louis Minneapolis St. Paul Las Vegas",
 							text: "St. Paul"
 						},
 						{
 							channel: 136,
-							name: "Florida",
 							text: "St. Petersburg"
 						},
 						{
 							channel: 136,
-							name: "Florida",
 							text: "Tampa"
 						},
 						{
 							channel: 134,
-							name: "Washington DC Baltimore Atlanta",
 							text: "Washington, DC"
 						}
 					]
