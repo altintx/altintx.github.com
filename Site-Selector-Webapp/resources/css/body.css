@@ -1,0 +1,46 @@
+.body-thumbnail-front {
+	background-image: url(../images/body/480-front.png);
+	background-size: 1in 2.5in;
+	background-repeat: no-repeat;
+	position: relative;
+	width: 1in;
+	height: 2.5in;
+}
+
+.body-thumbnail-back {
+	background-image: url(../images/body/480-back.png);
+	background-size: 1in 2.5in;
+	background-repeat: no-repeat;
+	position: relative;
+	width: 1in;
+	height: 2.5in;
+}
+
+.site.pump {
+	background-image: -webkit-linear-gradient(bottom, #4A094A 52%, #8C4FA6 76%);
+}
+
+.site.cgm {
+	background-image: -webkit-linear-gradient(top, #D18023 52%, #8F4411 76%);
+}
+.site.shot_bolus {
+	background-image: -webkit-linear-gradient(bottom, rgb(45,158,187) 16%, rgb(72,190,225) 58%, rgb(101,228,255) 79%);
+}
+.site.shot_basal {
+	background-image: -webkit-linear-gradient(bottom, rgb(10,88,35) 25%, rgb(65,150,95) 65%);
+}
+.site {
+	background-image: -webkit-linear-gradient(bottom, #8f0508 52%, #c51e0f 76%);
+	position: relative;
+}
+
+.site .x-button-label {
+	position: absolute;
+	margin-left: 5px;
+	top: -4px;
+}
+
+body.x-chrome .site .x-button-label {
+	margin-left: 0;
+	top: 0;
+}
